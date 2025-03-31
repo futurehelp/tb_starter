@@ -1,0 +1,12 @@
+id: QmbVjZqF4w2VWAgPBFs4PJYztMd6EuroZ6KiWsVuGD6nEw
+description: starter
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 921355649
+        fullname: futurehelp/nextjs-starter
